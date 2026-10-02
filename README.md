@@ -1,3 +1,9 @@
+> **仓库身份 / Repository identity（2026-10-02）**：这是 [BreCaspian/Deep_Learning_Foundation_and_Concepts-Springer](https://github.com/BreCaspian/Deep_Learning_Foundation_and_Concepts-Springer) 的个人学习资料 fork。上游作者、版权和许可按原文件保留；下文“我们 / 本人 / This work”属于上游文档语境，不表示本账号创作了原书或原工具。徽章若指向上游，其状态也仅代表上游。
+>
+> **验证范围**：本次核对来源、目录与成果表述；未独立重跑上游全部例程，未对教材全部推导作正确性认证。本账号增量以 [提交记录](https://github.com/defineiocc02/Deep_Learning_Foundation_and_Concepts-Springer/commits/main) 与上游差异为准。使用方法继续见原文，返回 [项目导航](https://github.com/defineiocc02)。
+
+---
+
 <h1 align="center">
 Deep Learning: Foundations and Concepts
 </h1>
@@ -8,7 +14,7 @@ Deep Learning: Foundations and Concepts
   <a href="README_EN.md">English</a>
 </p>
 
-本仓库包含《深度学习：基础与概念》(Deep Learning: Foundations and Concepts) 一书的补充资源、练习材料和解决方案。该书由Christopher M. Bishop和Hugh Bishop编著，由Springer于2023年出版。 🎉中文版已由 人民邮电出版社 出版🎉
+本仓库包含《深度学习：基础与概念》(Deep Learning: Foundations and Concepts) 一书的补充资源、练习材料和解决方案。该书由Christopher M. Bishop和Hugh Bishop编著，由Springer出版（书目年份按下方引用为2024年）。 🎉中文版已由 人民邮电出版社 出版🎉
 
 <p align="center">
   <img src="Book/Book_PNG/Christopher%20M.%20Bishop,%20Hugh%20Bishop%20-%20Deep%20Learning_%20Foundations%20and%20Concepts-Springer%20(2024)_332.png" alt="DLFC 内页示意 332" width="30%" />
