@@ -1,3 +1,8 @@
+> **This is a fork** · Upstream: [BreCaspian/Deep_Learning_Foundation_and_Concepts-Springer](https://github.com/BreCaspian/Deep_Learning_Foundation_and_Concepts-Springer)
+> Local changes: repository identity notice only, no code changes.
+> Sync status: 4 commits behind upstream (as of 2026-10-19), not merged.
+> Purpose: a mirror of the textbook's companion code; development does not happen in this repository.
+
 <h1 align="center">
 Deep Learning: Foundations and Concepts
 </h1>
@@ -8,7 +13,7 @@ Deep Learning: Foundations and Concepts
   <a href="README.md">中文</a>
 </p>
 
-This repository contains supplementary resources, exercise materials, and solutions for the book *Deep Learning: Foundations and Concepts*, written by Christopher M. Bishop and Hugh Bishop, published by Springer in 2023.
+This repository contains supplementary resources, exercise materials, and solutions for the book *Deep Learning: Foundations and Concepts*, written by Christopher M. Bishop and Hugh Bishop, published by Springer (bibliographic year 2024, see citation below).
 
 <p align="center">
   <img src="Book/Book_PNG/Christopher%20M.%20Bishop,%20Hugh%20Bishop%20-%20Deep%20Learning_%20Foundations%20and%20Concepts-Springer%20(2024)_332.png" alt="DLFC 内页示意 332" width="30%" />

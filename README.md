@@ -1,6 +1,10 @@
-> **仓库身份 / Repository identity（2026-10-02）**：这是 [BreCaspian/Deep_Learning_Foundation_and_Concepts-Springer](https://github.com/BreCaspian/Deep_Learning_Foundation_and_Concepts-Springer) 的个人学习资料 fork。上游作者、版权和许可按原文件保留；下文“我们 / 本人 / This work”属于上游文档语境，不表示本账号创作了原书或原工具。徽章若指向上游，其状态也仅代表上游。
+> **这是 fork** · 上游：[BreCaspian/Deep_Learning_Foundation_and_Concepts-Springer](https://github.com/BreCaspian/Deep_Learning_Foundation_and_Concepts-Springer)
+> 本地增量：仅加入仓库身份声明，无代码改动。
+> 同步状态：落后上游 4 个提交（截至 2026-10-19），未合并。
+> 用途：教材配套代码的镜像，不在此仓库开发。
+> 验证范围：未独立重跑上游全部例程，未对教材全部推导作正确性认证；本账号增量以 [提交记录](https://github.com/defineiocc02/Deep_Learning_Foundation_and_Concepts-Springer/commits/main) 为准。
 >
-> **验证范围**：本次核对来源、目录与成果表述；未独立重跑上游全部例程，未对教材全部推导作正确性认证。本账号增量以 [提交记录](https://github.com/defineiocc02/Deep_Learning_Foundation_and_Concepts-Springer/commits/main) 与上游差异为准。使用方法继续见原文，返回 [项目导航](https://github.com/defineiocc02)。
+> 上游作者、版权和许可按原文件保留；下文“我们 / 本人 / This work”属于上游文档语境。
 
 ---
 
