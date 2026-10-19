@@ -1,3 +1,7 @@
+# Deep_Learning_Foundation_and_Concepts-Springer
+
+![状态](https://img.shields.io/badge/%E7%8A%B6%E6%80%81-fork-8250df?style=flat-square) ![类型](https://img.shields.io/badge/%E7%B1%BB%E5%9E%8B-%E6%95%99%E6%9D%90%E4%BB%A3%E7%A0%81-6e7781?style=flat-square) ![技术栈](https://img.shields.io/badge/%E6%8A%80%E6%9C%AF%E6%A0%88-Jupyter-6e7781?style=flat-square) ![许可](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF-MIT-2ea043?style=flat-square)
+
 > **这是 fork** · 上游：[BreCaspian/Deep_Learning_Foundation_and_Concepts-Springer](https://github.com/BreCaspian/Deep_Learning_Foundation_and_Concepts-Springer)
 > 本地增量：仅加入仓库身份声明，无代码改动。
 > 同步状态：落后上游 4 个提交（截至 2026-10-19），未合并。
@@ -6,13 +10,9 @@
 >
 > 上游作者、版权和许可按原文件保留；下文“我们 / 本人 / This work”属于上游文档语境。
 
----
-
 <h1 align="center">
 Deep Learning: Foundations and Concepts
 </h1>
-
-
 
 <p align="center">
   <a href="README_EN.md">English</a>
